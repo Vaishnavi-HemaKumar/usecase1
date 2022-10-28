@@ -7,7 +7,10 @@ public class Main {
         }
     
 }
-    public static boolean checkIfInputIsAnEvenNumber(int number)
+    public static boolean checkIfInputIsAnEvenNumber(int number,int count)
     {
         return number % 2 == 0;
+        if(count<=number){
+            System.out.println("Tiger");
+        }
     }

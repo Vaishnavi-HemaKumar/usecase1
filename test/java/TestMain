@@ -5,6 +5,6 @@
     
         @Test
         public void testInputIsEven(){
-            assertTrue(Main.checkIfInputIsAnEvenNumber(24)); // Assertion
+            assertTrue(Main.checkIfInputIsAnEvenNumber(24,12)); // Assertion
         }
     }
