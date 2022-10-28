@@ -11,6 +11,6 @@ public class Main {
     {
         return number % 2 == 0;
         if(count<=number){
-            System.out.println("Tiger");
+            System.out.println("Tiger World");
         }
     }
